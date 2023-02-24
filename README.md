@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=0yn" width="400" alt="Nguyen Hung's Dev Card"/></a>
+<a href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=a0b" width="400" alt="Nguyen Hung's Dev Card"/></a>
 
 <!--
 **NeekuroVonz/NeekuroVonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
