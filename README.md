@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=b4t" width="400" alt="Nguyen Hung's Dev Card"/></a>
+<p align="center">
+  <a href="#"><img src="banner.jpg" alt="Banner"></a>
+</p>
+
+<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">NekooiTine</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+
+
+<a align="right" href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=b4t" width="400" alt="Nguyen Hung's Dev Card"/></a>
 
 <!--
 **NeekuroVonz/NeekuroVonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
