@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there pls dont judge meh or im gunna got mentak breakdown</h1>
 
 <p align="center">
   <a href="#"><img src="banner.jpg" alt="Banner"></a>
@@ -8,7 +8,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 
-<a align="right" href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=b4t" width="400" alt="Nguyen Hung's Dev Card"/></a>
+<a href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=b4t" width="400" alt="Nguyen Hung's Dev Card"/></a>
 
 <!--
 **NeekuroVonz/NeekuroVonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
