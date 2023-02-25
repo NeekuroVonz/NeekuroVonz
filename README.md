@@ -1,4 +1,4 @@
-<h1 align="center">Hi there pls dont judge meh or im gunna got mentak breakdown</h1>
+<h1 align="center">Hi there pls dont judge meh or im gonna got mental breakdown</h1>
 
 <p align="center">
   <a href="#"><img src="banner.jpg" alt="Banner"></a>
