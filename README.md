@@ -8,7 +8,7 @@
 <h1 align="center">Welcome to my GitHub profile~ UwU</h1>
 
 
-<a style="float:right" href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=b4t" width="400" alt="Nguyen Hung's Dev Card"/></a>
+<a style="text-align: center;" href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=b4t" width="400" alt="Nguyen Hung's Dev Card"/></a>
 
 - Im currently work as a Software Engineer, Web Dev, Designer and also App Dev.
 - Getting used to plenty languages but not so gud 😥
