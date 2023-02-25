@@ -12,11 +12,15 @@
 
 - Im currently work as a Software Engineer, Web Dev, Designer and also App Dev.
 - Getting used to plenty languages but not so gud 😥
-- What I use? -> <a href="#"><img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a><a href="#"><img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"></a><a href="#"><img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px"></a><a href="#"><img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px"></a><a href="#"><img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></a> and much more lmao
+- What I use? -> <a href="#"><img src="dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"></a>
+                  <a href="#"><img src="dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"></a>
+                  <a href="#"><img src="dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px"></a>
+                  <a href="#"><img src="dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px"></a>
+                  <a href="#"><img src="dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px"></a> and much more lmao
   
-- 📫 How to reach me: `swyx at hey dot com`
+- 📫 How to reach me: `....`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
+- ⚡ Fun fact: I was once [accidently delete prod db]
 
 <!--
 **NeekuroVonz/NeekuroVonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
