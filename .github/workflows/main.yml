@@ -1,0 +1,21 @@
+name: DevCard
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: @dailydotdev/devcard
+        uses: dailydotdev/action-devcard@2.1.0
+        with:
+          devcard_id: ec024f081dfe4b128f47ae7356363966
