@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://app.daily.dev/NekooiTine"><img src="https://api.daily.dev/devcards/ec024f081dfe4b128f47ae7356363966.png?r=b4t" width="400" alt="Nguyen Hung's Dev Card"/></a>
+  <a href="https://app.daily.dev/NekooiTine"><img src="devcard.svg" width="400" alt="Nguyen Hung's Dev Card"/></a>
 </p>
 
 - Im currently work as a Software Engineer, Web Dev, Designer and also App Dev.
