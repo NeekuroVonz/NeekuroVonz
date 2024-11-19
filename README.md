@@ -4,7 +4,7 @@
   <a href="#"><img src="banner.jpg" alt="Banner"></a>
 </p>
 
-<h1 align="center">Anyway Hi again, I'm <a target="_blank" href="https://www.facebook.com/Yeet.HungUwU/">NekooiTine</a>!</h1>
+<h1 align="center">Anyway Hi again, I'm <a target="_blank" href="https://www.facebook.com">NekooiTine</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ UwU</h1>
 
 
